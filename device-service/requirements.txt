@@ -1,0 +1,4 @@
+msmart-ng
+fastapi
+uvicorn[standard]
+python-dotenv
