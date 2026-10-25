@@ -1,4 +1,4 @@
-msmart-ng
 fastapi
-uvicorn[standard]
+uvicorn
 python-dotenv
+msmart-ng

@@ -1,6 +1,6 @@
-node_modules/
-dist/
+node_modules
+out
+dist
 .env
-__pycache__/
-.venv/
-mongo-data/
+.venv
+__pycache__
